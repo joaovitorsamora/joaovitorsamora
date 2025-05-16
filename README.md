@@ -10,7 +10,7 @@
 
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsamora)](https://github.com/joaovitorsamora/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joaovitorsamora&show_icons=true&theme=gotham" alt="joaovitorsamora" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
